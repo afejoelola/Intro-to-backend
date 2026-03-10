@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-backend",
+  "version": "1.0.0",
+  "description": "a tutorial for backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afejoelola/Intro-to-backend.git"
+  },
+  "author": "afejoelola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afejoelola/Intro-to-backend/issues"
+  },
+  "homepage": "https://github.com/afejoelola/Intro-to-backend#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.4"
+  }
+}
